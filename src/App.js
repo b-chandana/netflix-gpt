@@ -1,7 +1,11 @@
-import "./App.css";
-
+import React from "react";
+import Login from "./components/Login";
 function App() {
-  return <div className="text-3xl font-bold text-green-800">hello!</div>;
+  return (
+    <div>
+      <Login />
+    </div>
+  );
 }
 
 export default App;

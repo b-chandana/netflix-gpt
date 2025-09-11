@@ -19,3 +19,7 @@
 -NetflixGPT
 -search bar
 -movie suggestions
+
+--> Routing
+
+--> Formik library is good when we use forms inside a react project
