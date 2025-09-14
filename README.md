@@ -24,6 +24,22 @@
 - fetch movies from TMDB movies
   -Register TMDB API & create an app & get Access Token
   -Get data from Tmdb now playing movies list API
+  -custom hook for now playing movies
+  create movie slice
+  -update store with movie data
+  -planning for main contaniner and secondary container
+  -fetch data for trailer video
+  -update store with trailer video data
+  -embedded the yputube video and make it autoplay and mute
+  -tailwind classes to make main contaniner look awesome
+  -build secondary component
+  -build movie card
+  -TMDB image CDN URL
+  -made the browse pae amazing using Tailwind CSS
+  -usePopular movies custom hook
+
+  - useTredning movies custom hook
+    -useUpcoming movies custom hook
 
 - #Features
 
