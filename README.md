@@ -17,7 +17,14 @@
   -update profile
 - implemented sign out
   -update profile api call
+  -Bugfix: sign up user displayName and profile picture update
+  -Bugfix: if the user is not logged in redirect/browse to login Page and vice-verse
+  -unsubcribed to the onAuthStateChanged callback
+  -add hardcore values to the condtants file
 - fetch movies from TMDB movies
+  -Register TMDB API & create an app & get Access Token
+  -Get data from Tmdb now playing movies list API
+
 - #Features
 
 - Login/Sign Up
@@ -60,3 +67,4 @@ to install firebase CLI-npm install -g firebase-tools
 ===> redux dev tools
 ===>Auth
 ===> useEffect is used only when u want to use that only once in the component
+==> the name of the hook is always start with "use"
