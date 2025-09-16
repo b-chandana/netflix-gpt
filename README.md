@@ -38,6 +38,11 @@
   -made the browse pae amazing using Tailwind CSS
   -usePopular movies custom hook
 
+  - GPT search Page
+    -GPT Serach bar
+    -multi-language feature in our app
+  -
+
   - useTredning movies custom hook
     -useUpcoming movies custom hook
 
